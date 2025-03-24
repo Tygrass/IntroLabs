@@ -33,7 +33,9 @@ Alternatively, you can click on the **Kali** logo in the taskbar.
 
 In the **Kali** terminal, let’s become root:
 
-```sudo su -```
+```r
+sudo su -
+```
 
 We will scan your Windows system:
 
